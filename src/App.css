@@ -29,6 +29,13 @@ html, body, #root {
   background: rgba(250, 250, 250, 0.85);
 }
 
+.loader{
+  height: 81vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .city {
   display: flex;
   align-items: center;
